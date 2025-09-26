@@ -1,1 +1,1 @@
-[![jsextra_hw_testing_task_2](https://github.com/SadliyVI/JSExtra_HW_Testing_2/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/SadliyVI/JSExtra_HW_Testing_2/actions/workflows/main.yml)
+[![jsextra_hw_testing_task_2](https://github.com/SadliyVI/JSExtra_HW_Testing_2/actions/workflows/main.yml/badge.svg?event=push)](https://github.com/SadliyVI/JSExtra_HW_Testing_2/actions/workflows/main.yml)
